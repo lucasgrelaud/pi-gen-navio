@@ -4,7 +4,7 @@ RELEASE="buster"
 
 # Build settings
 USE_QEMU=0
-STAGE_LIST="stage0 stage1 stage2 stage3_emlid"
+STAGE_LIST="stage0 stage1 stage2 stage3_emlid stage3_uav_stack"
 
 # Network settings
 TARGET_HOSTNAME="navio-uav"

@@ -1,0 +1,6 @@
+build-essential
+git
+raspberrypi-kernel
+raspberrypi-kernel-headers
+dkms
+bc
