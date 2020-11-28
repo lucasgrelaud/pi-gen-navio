@@ -1,0 +1,12 @@
+virtualenv
+fakeroot
+debhelper
+python-twisted
+libpcap-dev
+libsodium-dev
+python-pyroute2
+python-future
+python-configparser
+python-all
+git
+python-setuptools
