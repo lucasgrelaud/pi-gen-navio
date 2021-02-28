@@ -1,6 +1,6 @@
 #!/bin/bash -ex
 
 on_chroot << EOF
-readlink -e /home/* | grep -v pi | xargs rm -rf
+readlink -e /home/* | grep -v $FIRST_USER_NAME | xargs rm -rf
 
 EOF
